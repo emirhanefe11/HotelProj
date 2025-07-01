@@ -1,0 +1,46 @@
+dto katmaný ---
+dýþ dünyaya veriyiy kontrollu sunmak için ayrý bir sýnýf 
+automapper ise entity layerdeki sýnýflarýmýzdaki nesnleeri kopyalamaya yarayan bir paket mesela entitylayerdeki room sýnýfýný roomadddto
+ya tek tek elle yazmadan kendisi aktarýyoru bunu de api kýsmýnda klasör acýp yaptýk 
+startup tarafýna da automapper eklediðimizi belirttik ama
+javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrardan automapper ile yazýyoruz iþte
+----
+[HttpPost]
+        public IActionResult AddRoom(RoomAddDto roomAddDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+            var values = _mapper.Map<Room>(roomAddDto);
+            _roomService.TInsert(values);
+
+            return Ok();
+        }
+        bu kod yeni bir room2controller açýp if(!Modelstata.isvalid) burada boþ býraklýan bir alan varmý diye bakýyoruz bunu da 
+        roomAddDto da required alanlarýmýz sayesinde yapýyoruz. sonrasýnda da var values diyip gelen roomAddDto nesnesini room nesnesine
+        dönüþtürüyoruz ve eklemeyi yapýyoruz.
+
+       ** swagger tarafýnda hata mesajlarýný gösterebiliyoruz veri girilmediði zaman ama bunu admin paneli kullanan kiþi de görmeli 
+       frontend kýsmýnda da gösterebilmeliyiz o sebeple
+
+       önce frontende de dto klasoru acýp içerisine dtolarýmýzý giriyirouz burdaki dto lar model klasorunun içerisine açtýgýmýz viewmodel
+       lerin yerini tutucak oyle kullanmýycaz artýk
+
+           <span asp-validation-for="ServiceIcon" class="text-danger"></span>
+ bu ilgili property e ait hata mesajýný otomatik ekranda gösteriyor. BU sayfayý ilk açtýgýmýzda calýsmaz modelstate in içerisi boþ çünkü 
+
+ **identity kütüphanesi**
+ dataacces entity api webui bu 4 katmana ýdentity kutuphanemizi kuruyoruz
+ identity kütüphanesi--kullanýcý verilerini kullanýcý bilgilerini login register iþlemlerini güvenli bir þekilde yapmamýzý saðlayan
+ þifreleri hashli tutan bir microsoft kütüphanesidir
+ bunu kurduktan sonra entity katmanýna iki tane sýnýf acýyoruz appuser ve approle adýnda appusera extra name surname ve city proplarýný
+ yazdýk kütüphanede zaten geriye kalan cogu özellik var sonra dataaccessde contex clasýna gidip önceden dbcontexten miras alýyordu artýk
+ IdentityDbcontex<Appuser,approle,int> buradan miras alacak sonra migration yapýp bu identity kütüphanesinden gelen tablolarý da veri tabanýmýzýa 
+ ekleriz
+ bunlarý yaptýktan sonra frontend kýsmýnda register iþlemleri için bir controller ekliycez apiyle bir baglantýmýz yok burada
+
+    ÝDENTÝTY ÝLE KULLANICI KAYIT ÝÞLEMLERÝNÝN MANTIGINA EVDE BÝDAHA BAK 
+    *** 
+
+    **þimdi kullanýcýlarýn göreceði asýl temaya geçiyoruz ***
