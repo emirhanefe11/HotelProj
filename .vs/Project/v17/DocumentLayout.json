@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,15 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T13:18:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
               "RelativeDocumentMoniker": "TextFile1.txt",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
               "RelativeToolTip": "TextFile1.txt",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-07-01T06:57:22.827Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:18:13.784Z",
               "EditorCaption": ""
             }
           ]

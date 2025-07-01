@@ -179,3 +179,4 @@ C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razo
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\bin\Debug\net5.0\DataAccessLayer.dll
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\HotelProject.Web.sourcelink.json
