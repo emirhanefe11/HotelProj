@@ -44,3 +44,6 @@ javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrard
     *** 
 
     **þimdi kullanýcýlarýn göreceði asýl temaya geçiyoruz ***
+    ilk olarak ana index ekranýný viewcomponentlere bölücez viewcomponentler ayný partiallar gibi çaliþir ama daha özellikli halidir viewlardan
+    bagýmsýzdýr kendisi kucuk bir view gibi düþün ayrýca kendi basýna veri çekebilir.
+    viewcomponent parçlarýný shared de tanýmlýycaz

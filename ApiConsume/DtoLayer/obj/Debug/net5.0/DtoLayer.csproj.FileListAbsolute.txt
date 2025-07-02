@@ -16,3 +16,4 @@ C:\Users\HP\source\repos\Project\ApiConsume\DtoLayer\obj\Debug\net5.0\refint\Dto
 C:\Users\HP\source\repos\Project\ApiConsume\DtoLayer\obj\Debug\net5.0\DtoLayer.pdb
 C:\Users\HP\source\repos\Project\ApiConsume\DtoLayer\obj\Debug\net5.0\DtoLayer.genruntimeconfig.cache
 C:\Users\HP\source\repos\Project\ApiConsume\DtoLayer\obj\Debug\net5.0\ref\DtoLayer.dll
+C:\Users\HP\source\repos\Project\ApiConsume\DtoLayer\obj\Debug\net5.0\DtoLayer.sourcelink.json

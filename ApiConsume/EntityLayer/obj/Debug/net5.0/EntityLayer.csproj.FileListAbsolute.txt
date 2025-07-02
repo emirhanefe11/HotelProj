@@ -13,3 +13,4 @@ C:\Users\HP\source\repos\Project\ApiConsume\EntityLayer\obj\Debug\net5.0\refint\
 C:\Users\HP\source\repos\Project\ApiConsume\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\HP\source\repos\Project\ApiConsume\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
 C:\Users\HP\source\repos\Project\ApiConsume\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\HP\source\repos\Project\ApiConsume\EntityLayer\obj\Debug\net5.0\EntityLayer.sourcelink.json

@@ -18,3 +18,4 @@ C:\Users\HP\source\repos\Project\ApiConsume\BusinessLayer\obj\Debug\net5.0\refin
 C:\Users\HP\source\repos\Project\ApiConsume\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
 C:\Users\HP\source\repos\Project\ApiConsume\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\HP\source\repos\Project\ApiConsume\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\HP\source\repos\Project\ApiConsume\BusinessLayer\obj\Debug\net5.0\BusinessLayer.sourcelink.json
