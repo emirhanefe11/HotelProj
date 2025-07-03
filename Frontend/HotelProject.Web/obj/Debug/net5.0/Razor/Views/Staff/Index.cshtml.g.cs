@@ -49,6 +49,36 @@ using HotelProject.Web.Dtos.LoginDto
 #nullable disable
     ;
 #nullable restore
+#line 8 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.AboutDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 9 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.RoomDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 10 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.TestimonialDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 11 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.StaffDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 12 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.SubscribeDto
+
+#nullable disable
+    ;
+#nullable restore
 #line 1 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\Staff\Index.cshtml"
  using HotelProject.Web.Models.Staff
 
@@ -57,7 +87,7 @@ using HotelProject.Web.Dtos.LoginDto
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"9fe5436d3823b0461cb788db906784e1c8d33343ae2f4cd1814117846abc550c", @"/Views/Staff/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"89994e0e175a149a2497c32481fa5d0cb6522c87384abaaf233da9071362231c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"c432a96312e253d870c2adabd535cc98d773ff67455dd248f33615b5e012dd08", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Staff_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore

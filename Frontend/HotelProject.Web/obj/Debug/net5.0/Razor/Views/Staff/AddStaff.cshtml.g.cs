@@ -49,6 +49,36 @@ using HotelProject.Web.Dtos.LoginDto
 #nullable disable
     ;
 #nullable restore
+#line 8 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.AboutDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 9 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.RoomDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 10 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.TestimonialDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 11 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.StaffDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 12 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.SubscribeDto
+
+#nullable disable
+    ;
+#nullable restore
 #line 1 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\Staff\AddStaff.cshtml"
  using HotelProject.Web.Models.Staff
 
@@ -57,7 +87,7 @@ using HotelProject.Web.Dtos.LoginDto
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb", @"/Views/Staff/AddStaff.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"89994e0e175a149a2497c32481fa5d0cb6522c87384abaaf233da9071362231c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"c432a96312e253d870c2adabd535cc98d773ff67455dd248f33615b5e012dd08", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Staff_AddStaff : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore
@@ -110,9 +140,9 @@ using HotelProject.Web.Dtos.LoginDto
 #nullable disable
 
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb5916", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb6833", async() => {
                 WriteLiteral("\r\n    <label>Personel Adı</label>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb6237", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb7154", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -138,7 +168,7 @@ using HotelProject.Web.Dtos.LoginDto
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    <br />\r\n    <label>Personel Unvanı</label>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb8178", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb9095", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -164,7 +194,7 @@ using HotelProject.Web.Dtos.LoginDto
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    <br />\r\n    <label>Sosyal Medya 1</label>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb10119", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb11036", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -190,7 +220,7 @@ using HotelProject.Web.Dtos.LoginDto
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    <br />\r\n    <label>Sosyal Medya 2</label>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb12068", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb12985", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -216,7 +246,7 @@ using HotelProject.Web.Dtos.LoginDto
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    <br />\r\n    <label>Sosyal Medya 3</label>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb14017", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff4fa950122b07e26031645bf85230653f2fcc948360830fedb7e65fe7f15edb14934", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();

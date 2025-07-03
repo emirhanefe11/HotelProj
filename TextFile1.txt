@@ -46,4 +46,12 @@ javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrard
     **þimdi kullanýcýlarýn göreceði asýl temaya geçiyoruz ***
     ilk olarak ana index ekranýný viewcomponentlere bölücez viewcomponentler ayný partiallar gibi çaliþir ama daha özellikli halidir viewlardan
     bagýmsýzdýr kendisi kucuk bir view gibi düþün ayrýca kendi basýna veri çekebilir.
-    viewcomponent parçlarýný shared de tanýmlýycaz
+    viewcomponent parçlarýný shared de tanýmlýycaz bunlarý yaptýktan sonra bundan sonraki iþimiz bu vievcomponentlarý kullanarak onlara özel veri cekip ekrana 
+    yansýtmalarý yapýcaz ilk olarak about us componentinden baslýyoruz
+
+    about için tek tek mimariyi uyguladýk entityde olutþrurup srevice katmaný olsun dataacces katmaný olsun sonrasýnda bunun api tarafýnda controllerýnýz yazdýk ve
+    frontend tarafýnda ise ayrý bir controller yazmadýk cunku view componentte göstereceðimiz için onun içiçnde cektik verileri 
+
+    ayný iþlemleri diðer viewcomponentler içinde yaptýk ama ****VÝEWCOMPONENTLER**** sadece veri listelemek içindir post iþlemleri için tavsiye edilmiyor post yapacagýmýz iþlem için
+    mesela subscribe kýsmýnda ana default controllerýmýzda bir partial oluþturup oradan devam edicez
+

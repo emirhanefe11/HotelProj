@@ -54,10 +54,40 @@ using HotelProject.Web.Dtos.LoginDto
 
 #nullable disable
     ;
+#nullable restore
+#line 8 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.AboutDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 9 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.RoomDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 10 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.TestimonialDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 11 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.StaffDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 12 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.SubscribeDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"487b94a7d601f512663f26ed76cac26efa4fb10fd02bc044dd76c12352c64689", @"/Views/AdminLayout/PreloaderPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"89994e0e175a149a2497c32481fa5d0cb6522c87384abaaf233da9071362231c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"c432a96312e253d870c2adabd535cc98d773ff67455dd248f33615b5e012dd08", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_AdminLayout_PreloaderPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

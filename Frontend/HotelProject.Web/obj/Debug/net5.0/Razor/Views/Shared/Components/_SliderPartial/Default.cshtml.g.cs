@@ -54,10 +54,40 @@ using HotelProject.Web.Dtos.LoginDto
 
 #nullable disable
     ;
+#nullable restore
+#line 8 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.AboutDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 9 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.RoomDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 10 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.TestimonialDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 11 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.StaffDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 12 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.SubscribeDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"3fbb3baae3e475aff29ddd8800859d7dd520214f687933f886d2a6ffc5c5e8c8", @"/Views/Shared/Components/_SliderPartial/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"89994e0e175a149a2497c32481fa5d0cb6522c87384abaaf233da9071362231c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"c432a96312e253d870c2adabd535cc98d773ff67455dd248f33615b5e012dd08", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Shared_Components__SliderPartial_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -91,7 +121,7 @@ using HotelProject.Web.Dtos.LoginDto
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<div class=\"container-fluid p-0 mb-5\">\r\n    <div id=\"header-carousel\" class=\"carousel slide\" data-bs-ride=\"carousel\">\r\n        <div class=\"carousel-inner\">\r\n            <div class=\"carousel-item active\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3fbb3baae3e475aff29ddd8800859d7dd520214f687933f886d2a6ffc5c5e8c86076", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3fbb3baae3e475aff29ddd8800859d7dd520214f687933f886d2a6ffc5c5e8c86993", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -118,7 +148,7 @@ using HotelProject.Web.Dtos.LoginDto
             BeginWriteAttribute("href", " href=\"", 830, "\"", 837, 0);
             EndWriteAttribute();
             WriteLiteral(" class=\"btn btn-light py-md-3 px-md-5 animated slideInRight\">Rezervasyon Yap</a>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            <div class=\"carousel-item\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3fbb3baae3e475aff29ddd8800859d7dd520214f687933f886d2a6ffc5c5e8c88330", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3fbb3baae3e475aff29ddd8800859d7dd520214f687933f886d2a6ffc5c5e8c89247", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

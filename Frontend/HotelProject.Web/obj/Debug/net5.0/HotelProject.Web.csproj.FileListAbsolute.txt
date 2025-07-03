@@ -191,7 +191,7 @@ C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razo
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_TestimonialPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_TeamPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_FooterPartial\Default.cshtml.g.cs
-C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubscribePartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_ScriptPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_RezervationPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_AboutUsPartial\Default.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Default\_SubscribePartial.cshtml.g.cs

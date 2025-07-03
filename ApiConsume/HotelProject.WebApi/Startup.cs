@@ -46,6 +46,9 @@ namespace HotelProject.WebApi
            
             services.AddScoped<ISubscribeService, SubscribeManager>();
             services.AddScoped<ISubscribeDal, EfSubscribeDal>();
+           
+            services.AddScoped<IAboutService, AboutManager>();
+            services.AddScoped<IAboutDal, EfAboutDal>();
 
             services.AddAutoMapper(typeof(Startup));
 
