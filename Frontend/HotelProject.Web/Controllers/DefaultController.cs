@@ -36,12 +36,6 @@ namespace HotelProject.Web.Controllers
             StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var response = await client.PostAsync("http://localhost:29309/api/Subscribe", content);
 
-            var dtoJson = JsonConvert.SerializeObject(createSubscribeDto);
-            System.Diagnostics.Debug.WriteLine("CreateSubscribeDto: " + dtoJson);
-            Console.WriteLine(dtoJson);
-            Console.WriteLine("emir");
-
-
             if (response.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index","Default");

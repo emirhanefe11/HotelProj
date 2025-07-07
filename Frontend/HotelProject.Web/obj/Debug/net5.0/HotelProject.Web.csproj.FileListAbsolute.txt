@@ -195,3 +195,7 @@ C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razo
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_RezervationPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_AboutUsPartial\Default.cshtml.g.cs
 C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Default\_SubscribePartial.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_BookingCoverPartial\Default.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\Booking\AddBooking.cshtml.g.cs
+C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\obj\Debug\net5.0\Razor\Views\BookingAdmin\Index.cshtml.g.cs
