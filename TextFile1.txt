@@ -55,3 +55,84 @@ javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrard
     ayný iþlemleri diðer viewcomponentler içinde yaptýk ama ****VÝEWCOMPONENTLER**** sadece veri listelemek içindir post iþlemleri için tavsiye edilmiyor post yapacagýmýz iþlem için
     mesela subscribe kýsmýnda ana default controllerýmýzda bir partial oluþturup oradan devam edicez
 
+    ***json web token***
+    güvenlik için asp net core da yaptýgýmýz identity den daha önemli ama onun gibi bir de bu sayede veriler þifreli olarak geliyor jwt ile
+    ilk olarak hotel projesinden ayrý olarak bi api projesi actýk onun içerisþne jwt bearer pkaetini kurduk
+    sonrasýnda bunun configürasyonunu yapýcaz startup kýsmýnda
+
+     services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+            {
+                opt.RequireHttpsMetadata = false;
+                opt.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidIssuer = "http://localhost",
+                    ValidAudience = "http://localhost",
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("aspnetcoreapiapi")),
+                    ValidateIssuerSigningKey = true
+                    ValidateLifetime = true
+                };
+            });
+            startup kýsmýnda service kýsmýna yazdýgýmýz configirasyonlar
+            /*TEK TEK ACIKLAMALARI
+           * services.AddAuthentication -->> ile uygulamada bir authentication kullanýcagýmýzý belirtiyorruz
+           * JwtBearerDefaults.AuthenticationScheme -->> Kullanýlacak kimlik doðrulama yönteminin JWT Bearer Token olduðunu belirtir (yani kullanýcý isteklerine token gönderecek ve sistem bu token’ý kontrol edecek).
+           * .AddJwtBearer(opt => { ... })-->> bu satýrdan itibaren jwt ayarlarýný yapýyoruz
+           * opt.RequireHttpsMetadata = false; -->>Ne yapar? Varsayýlan olarak HTTPS (güvenli baðlantý) zorunludur. Bu satýr, HTTPS zorunluluðunu kaldýrýr.
+            Neden?
+            Geliþtirme aþamasýnda (localhost’ta) HTTPS olmayan baðlantýlara da izin verilsin diye.
+           * opt.TokenValidationParameters = new TokenValidationParameters() { ... }-->> JWT token’larýnýn doðrulanma kurallarýný tanýmlar.
+           *ValidIssuer = "http://localhost",-->> Token’ý kim oluþturdu? sorusunun cevabýdýr.
+           *ValidAudience = "http://localhost", -->> token i kimler kullanabilirin cevabý Genelde bu deðer, uygulamanýn frontend tarafý olur. Ama burada basit tutulmuþ ve localhost yazýlmýþ.
+           *IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("aspnetcoreapiapi")),-->> tokený imzalatmak Bu anahtarla imzalanmayan token’lar geçersiz olur.
+           *ValidateIssuerSigningKey = true, -->>Token’ý doðrularken yukarýda tanýmladýðýmýz IssuerSigningKey’i kullanarak imzayý kontrol eder.
+           *ValidateLifetime = true -->> Token’ýn süresinin geçip geçmediðini kontrol eder.
+
+            */
+
+            sonrasýnda token olusturma sýnýfý yazýyoruz
+
+            public string TokenCreate()
+        {
+            var bytes = Encoding.UTF8.GetBytes("aspnetcoreapiapi");
+            SymmetricSecurityKey key = new SymmetricSecurityKey(bytes);
+            SigningCredentials credentials = new SigningCredentials(key,SecurityAlgorithms.HmacSha256);
+            JwtSecurityToken token = new JwtSecurityToken(issuer: "http://localhost", audience: "http://localhost", notBefore: DateTime.Now, expires: DateTime.Now.AddMinutes(3), signingCredentials: credentials);
+
+            JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();
+           return handler.WriteToken(token);
+
+        }
+        /*TEK TEK ACIKLAMALARI
+        * var bytes = Encoding.UTF8.GetBytes("aspnetcoreapiapi"); -->>Bu satýrda "aspnetcoreapiapi" isimli secret key (gizli anahtar) UTF8 formatýnda byte dizisine çevriliyor.
+        Bu key ile token'ý imzalayacaðýz, böylece token'ý baþkalarý uyduramaz.Burada tokenýmýzýn startupta yazdýgýmýz imzaayla ayný olmasý lazým ki öyle de ikisine de aspnetcoreapiapi 
+        yazdýk
+        *SymmetricSecurityKey key = new SymmetricSecurityKey(bytes);-->>Yukarýda aldýðýmýz byte dizisi, SymmetricSecurityKey haline getiriliyor. Bu nesne, token’ýn güvenliðini saðlayacak anahtarý temsil eder.
+        *SigningCredentials credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);-->> Token'ý imzalarken hangi algoritmayý kullanacaðýmýzý belirtiyoruz.
+        Burada HMAC-SHA256 algoritmasý kullanýlýyor. credentials artýk imzalama için hazýr.
+        *JwtSecurityToken token = new JwtSecurityToken(...)-->>Bu satýrda artýk token objesini oluþturuyoruz.signingCredentials: credentials->Token bu credentials (anahtar+algoritma) ile imzalanacak
+        *JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();-->>Token'ý yazýya çevirmek (string yapmak) için bir handler (yönetici) oluþturuluyor.
+
+        */
+        onun içerisindeki metoda yazdýgýmýz kodlar ise bunlar 
+
+        --Controller Sýnýfý--
+        þimdi controller yazarken [HttpGet("[action]")] bu atributun içerisine actýon yazýnda metodun ismini otamatik actiona ekler yaný url ye ekler be nereden gelen istekle calýsacagýný
+        belirtir
+          [HttpGet("[action]")]
+
+        public IActionResult Test()
+        {
+            return Ok(new CreateToken().TokenCreate());
+        }
+        postman ile bunu test edicez token üretiliyor mu diye http://localhost:36323/api/Default/Test bu þekilde action ile hangi metodu kullanýcagýmýzý belirtiyoruz
+
+        [Authorize] httpgetin üzerine bunu koyarsak bu atrribute ile o metodu güvenliðe almýs oluyoruz sadece tokeni olanlar çaliþtirabilir demke
+        postman ile istek atmayý dneeyince 401 unauthorized dönüyor 
+        þimdi tokenimiz ile test2 yi kullanabilmeyi görcez
+        token oluþturup postman üzerinde autherization seçip key de value kýsmýnda da Bearer tokenýmýzý yazýp istek atýnca giriþ yapabilioruz
+
+        birde admine özel token üretmeyi görücez þimdi 
+        admin token üretirken farklý olarak claim oluþturucaz
+
+
+
