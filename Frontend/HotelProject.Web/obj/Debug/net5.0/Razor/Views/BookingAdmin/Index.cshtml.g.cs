@@ -90,10 +90,16 @@ using HotelProject.Web.Dtos.BookingDto
 
 #nullable disable
     ;
+#nullable restore
+#line 14 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.ContactDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"e382a96b89f8f16f2d046d5394454f1297c3e92abdebc316b2c5761142e3532a", @"/Views/BookingAdmin/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ad0b9e915d8d4e36c5f2b1dcdb3fab53b5d98a8a4beed56cdec425018205aa07", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"95f369ee44d9a90281edf6f38a54f41dfcc5d029f0e535b0995fd66c8c9275d2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_BookingAdmin_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore

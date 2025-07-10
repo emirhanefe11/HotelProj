@@ -55,7 +55,7 @@ javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrard
     ayný iþlemleri diðer viewcomponentler içinde yaptýk ama ****VÝEWCOMPONENTLER**** sadece veri listelemek içindir post iþlemleri için tavsiye edilmiyor post yapacagýmýz iþlem için
     mesela subscribe kýsmýnda ana default controllerýmýzda bir partial oluþturup oradan devam edicez
 
-    ***json web token***
+    ***JSON WEB TOKEN***
     güvenlik için asp net core da yaptýgýmýz identity den daha önemli ama onun gibi bir de bu sayede veriler þifreli olarak geliyor jwt ile
     ilk olarak hotel projesinden ayrý olarak bi api projesi actýk onun içerisþne jwt bearer pkaetini kurduk
     sonrasýnda bunun configürasyonunu yapýcaz startup kýsmýnda
@@ -132,7 +132,34 @@ javada bean diye birþey vardý burada onun yerine oluþturulan bir nesneyi tekrard
         token oluþturup postman üzerinde autherization seçip key de value kýsmýnda da Bearer tokenýmýzý yazýp istek atýnca giriþ yapabilioruz
 
         birde admine özel token üretmeyi görücez þimdi 
-        admin token üretirken farklý olarak claim oluþturucaz
+        admin token üretirken farklý olarak claim oluþturucaz 
+        ***************************************************** BURASI AYRI OLARAK BÝR JSON WEB TOKEN ANLATIMI PROJEMÝZDE BÝZ KULLANMIYORUZ
+        projede eksiklerin giderilmesine devam ediyoruz önce about kýsmýný yazmýstýk orada kiþilerin sayýlarý görülüyordu ya personel falan oraya biz random girmiþtik sayýlarý ,þimdi ise
+        sayfaya üye olan kiþi sayýlarýna göre oradaki müþteriler çaliþanlar falan deðiþecek bunun için trigger yazýcaz
+
+        Update Abouts set RoomCount=(Select Count(*) From Rooms),StaffCount=(Select Count(*) from Staffs),CustomerCount=(Select Count(*) from Guests)
+        bunu sql içerisinde yazarak roomcount ve staffcount deðerlerini staffs ve rooms
+        tablomuzdan aldýk. 
+        ama misafirler için ayrý bir tablomuz yoktu sadece kullanýcýlar ve rezervasyon yapanlar için vardý ama bir kiþi 5 kiþi yerine de rezervasyon yaptýgý için o tam olmuoyr misafir 
+        tablosu ekliycez bide en bastna
+        bunlardan sonra tamam about kýsmý güncellendi diðer tablolarn sayýsýna göre deðiþti ama her seferinde update yazmak yerine ve anlýk bunu yapamýycagýmýz için sql üzerinde trigger
+        yazýcaz ekleme yaptýkca kendisi artýp acalýcak
+        
+        Create Trigger RoomIncrease ---> triggera veridðimiz isim 
+        on Rooms -->nereye veri eklenirse triggerýn calýscagýný belirtiyoruz 
+        after insert
+        as
+        Update Abouts set RoomCount =RoomCount+1 -->sonra ayný yukardaki gibi bu komut calýýsyor iþte
+        ----> cok basit bir mantýgý var trigger yazmanýn yukardaki gibi bu trigger room tablosunun tetikleyiciler klasorune ekleniyor
+        ******** Burada da about kýsmýný tamamladýk trigger yazarak falan daha güzel oldu
+
+        sonrasýnda iletiþim sayfasý ekledik birtane yine tek tek contact sýnýfý acýp entity de katmanlý mimariye ekledik sonrasýnda düzenledik 
+
+        þimdi de 
+
+
+
+
 
 
 

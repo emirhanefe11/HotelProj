@@ -3,6 +3,270 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\adminlayout\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminlayout\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\adminlayout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminlayout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\adminabout\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminabout\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\adminaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\adminaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\adminabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_aboutuspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_aboutuspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\dtos\\aboutdto\\resultaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\dtos\\aboutdto\\resultaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\dtos\\aboutdto\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\dtos\\aboutdto\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\staff\\updatestaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\staff\\updatestaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_navbarpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_navbarpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\contact\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\contact\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\wwwroot\\hotel-html-template\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\wwwroot\\hotel-html-template\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\dtos\\contactdto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\dtos\\contactdto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|solutionrelative:apiconsume\\entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_contactcoverpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_contactcoverpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\viewcomponents\\contact\\_contactcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\viewcomponents\\contact\\_contactcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\hotelproject.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\hotelproject.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\migrations\\20250710125052_mig_add_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\migrations\\20250710125052_mig_add_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\abstract\\itestomonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\abstract\\itestomonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\abstract\\isubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\abstract\\isubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\eftestomonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\eftestomonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_trailerpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_trailerpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_ourroomspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\shared\\components\\_ourroomspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\viewcomponents\\default\\_footerpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\viewcomponents\\default\\_footerpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\migrations\\20250710115431_mig_add_guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\migrations\\20250710115431_mig_add_guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\entitylayer\\concrete\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|solutionrelative:apiconsume\\entitylayer\\concrete\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38B24CA5-3A1A-4D65-B818-D4B84B3C7944}|JWT project\\WebApiJwt\\WebApiJwt.csproj|c:\\users\\hp\\source\\repos\\project\\jwt project\\webapijwt\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B24CA5-3A1A-4D65-B818-D4B84B3C7944}|JWT project\\WebApiJwt\\WebApiJwt.csproj|solutionrelative:jwt project\\webapijwt\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +275,8 @@
       "RelativeMoniker": "D:0:0:{38B24CA5-3A1A-4D65-B818-D4B84B3C7944}|JWT project\\WebApiJwt\\WebApiJwt.csproj|solutionrelative:jwt project\\webapijwt\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|ToDoList{A47F0B27-45B1-4845-AB7D-A17BC42FF41D}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\entitycore\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\entitycore\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\dataaccesslayer\\abstract\\ibookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7030794-CDFF-4242-882A-346E872F78E4}|ApiConsume\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:apiconsume\\dataaccesslayer\\abstract\\ibookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81545FD3-9938-4B3E-8B12-9F05A0359949}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B9F5F9-2B03-459C-ABA9-FBD5509FB973}|ApiConsume\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:apiconsume\\businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\dtos\\bookingdto\\approvedreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,20 +303,8 @@
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,20 +315,12 @@
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\wwwroot\\adminweb\\table-basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\adminlayout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminlayout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\staff\\addstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\staff\\addstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,16 +347,8 @@
       "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|c:\\users\\hp\\source\\repos\\project\\apiconsume\\entitylayer\\concrete\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFFEE8F-1732-40B9-8DBB-5323582A6694}|ApiConsume\\EntityLayer\\EntityLayer.csproj|solutionrelative:apiconsume\\entitylayer\\concrete\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|solutionrelative:frontend\\hotelproject.web\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D227DA83-82E3-459E-9B62-ECE83F4369FD}|Frontend\\HotelProject.Web\\HotelProject.Web.csproj|c:\\users\\hp\\source\\repos\\project\\frontend\\hotelproject.web\\views\\shared\\components\\_bookingcoverpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -155,51 +367,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:33:23.96Z",
+              "Title": "SideBarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\SideBarPartial.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\SideBarPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\SideBarPartial.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\SideBarPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T14:38:02.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Startup.cs",
-              "RelativeDocumentMoniker": "JWT project\\WebApiJwt\\Startup.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Startup.cs",
-              "RelativeToolTip": "JWT project\\WebApiJwt\\Startup.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ResultAboutDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\AboutDto\\ResultAboutDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\AboutDto\\ResultAboutDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\AboutDto\\ResultAboutDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\AboutDto\\ResultAboutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:13:43.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TextFile1.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
-              "RelativeDocumentMoniker": "TextFile1.txt",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
-              "RelativeToolTip": "TextFile1.txt",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-08T11:04:03.511Z",
+              "WhenOpened": "2025-07-10T14:23:35.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:21:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminAbout\\UpdateAbout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminAbout\\UpdateAbout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminAbout\\UpdateAbout.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminAbout\\UpdateAbout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T14:09:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminAbout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminAbout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminAbout\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminAbout\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T14:08:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAboutController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\AdminAboutController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\AdminAboutController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\AdminAboutController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\AdminAboutController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:03:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
               "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T13:54:57.91Z",
               "EditorCaption": ""
@@ -207,253 +458,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BookingManager.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
-              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:54:14.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
-              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:53:24.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EfBookingDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
-              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:50:03.144Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T11:38:05.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IBookingDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:48:43.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApprovedReservationDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:42:24.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCkAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T13:38:23.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResultBookingDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:12:02.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookingAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCcAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:36:08.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswFkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:36:43.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateBookingDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:09:34.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:21:54.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBJwB0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:10:44.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowF4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:33:38.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:33:31.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "table-basic.html",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
-              "ViewState": "AgIAAJABAAAAAAAAAAAQwKcBAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-07T13:16:19.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T11:25:23.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAIBJwGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T11:31:10.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T13:15:19.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AddStaff.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T12:36:39.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "AdminLayoutController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\AdminLayoutController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\AdminLayoutController.cs",
@@ -466,98 +483,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TestimonialController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:33:59.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\_AdminLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T12:34:04.319Z",
+              "WhenOpened": "2025-07-07T13:15:19.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UpdateAboutDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\AboutDto\\UpdateAboutDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\AboutDto\\UpdateAboutDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\AboutDto\\UpdateAboutDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\AboutDto\\UpdateAboutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:13:52.642Z",
+              "WhenOpened": "2025-07-10T14:05:41.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "SendMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Contact\\SendMessage.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Contact\\SendMessage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Contact\\SendMessage.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Contact\\SendMessage.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T12:33:42.848Z",
+              "WhenOpened": "2025-07-10T13:12:50.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T12:33:21.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Startup.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Startup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:33:06.996Z",
+              "WhenOpened": "2025-07-10T13:50:07.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "HeadPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T12:31:18.138Z",
+              "WhenOpened": "2025-07-10T14:10:10.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 11,
+              "Title": "UpdateStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\UpdateStaff.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Staff\\UpdateStaff.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\UpdateStaff.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Staff\\UpdateStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T14:15:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T12:53:57.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T11:31:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\_ViewImports.cshtml",
@@ -570,7 +600,872 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_NavBarPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_NavBarPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_NavBarPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_NavBarPartial\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T12:28:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\BookingAdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:36:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:36:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\hotel-html-template\\contact.html",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\wwwroot\\hotel-html-template\\contact.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\hotel-html-template\\contact.html",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\wwwroot\\hotel-html-template\\contact.html",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwO0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-10T12:54:34.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJ0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-08T11:04:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T11:33:37.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:53:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\ContactDto\\CreateContactDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\ContactDto\\CreateContactDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\ContactDto\\CreateContactDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\ContactDto\\CreateContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:07:12.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\EntityLayer\\Concrete\\Contact.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeToolTip": "ApiConsume\\EntityLayer\\Concrete\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:32:51.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_ContactCoverPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_ContactCoverPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_ContactCoverPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_ContactCoverPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T12:59:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ContactCoverPartial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Contact\\_ContactCoverPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\ViewComponents\\Contact\\_ContactCoverPartial.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Contact\\_ContactCoverPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\ViewComponents\\Contact\\_ContactCoverPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:57:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HotelProject.Web",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\HotelProject.Web.csproj",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\HotelProject.Web.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\HotelProject.Web.csproj",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\HotelProject.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T12:53:01.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250710125052_mig_add_contact.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Migrations\\20250710125052_mig_add_contact.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Migrations\\20250710125052_mig_add_contact.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Migrations\\20250710125052_mig_add_contact.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Migrations\\20250710125052_mig_add_contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:50:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:21:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:45:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:45:49.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:45:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:25:23.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_BookingCoverPartial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:22:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:45:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:43:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ISubscribeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:43:28.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:43:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\RoomManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:41:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:38:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:06.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:30.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:35:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EfContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfContactDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfContactDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfContactDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfContactDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:36:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ITestomonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\ITestomonialDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\ITestomonialDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\ITestomonialDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\ITestomonialDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ISubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Concrete\\BookingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:54:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EfTestomonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfTestomonialDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfTestomonialDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfTestomonialDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfTestomonialDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EfSubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfSubscribeDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfSubscribeDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfSubscribeDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfSubscribeDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeToolTip": "ApiConsume\\BusinessLayer\\Abstract\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:53:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EfStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfStaffDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfStaffDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfStaffDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfStaffDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:37:12.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T12:24:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_FooterPartial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Default\\_FooterPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\ViewComponents\\Default\\_FooterPartial.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Default\\_FooterPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\ViewComponents\\Default\\_FooterPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:23:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T12:23:08.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250710115431_mig_add_guest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Migrations\\20250710115431_mig_add_guest.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Migrations\\20250710115431_mig_add_guest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Migrations\\20250710115431_mig_add_guest.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Migrations\\20250710115431_mig_add_guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:54:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:52:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EfBookingDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\EntityCore\\EfBookingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:50:03.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\EntityLayer\\Concrete\\Guest.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\EntityLayer\\Concrete\\Guest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\EntityLayer\\Concrete\\Guest.cs",
+              "RelativeToolTip": "ApiConsume\\EntityLayer\\Concrete\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:51:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "JWT project\\WebApiJwt\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:33:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IBookingDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
+              "RelativeToolTip": "ApiConsume\\DataAccessLayer\\Abstract\\IBookingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:48:43.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Startup.cs",
+              "RelativeDocumentMoniker": "JWT project\\WebApiJwt\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\JWT project\\WebApiJwt\\Startup.cs",
+              "RelativeToolTip": "JWT project\\WebApiJwt\\Startup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:13:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ApprovedReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:42:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\BookingAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T13:38:23.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ResultBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\ResultBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:12:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Dtos\\BookingDto\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:09:34.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Mapping\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:10:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:33:38.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:33:31.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "table-basic.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\wwwroot\\adminweb\\table-basic.html",
+              "ViewState": "AgIAAJABAAAAAAAAAAAQwKcBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-07T13:16:19.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Booking\\AddBooking.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:31:10.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Staff\\AddStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:36:39.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TestimonialController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\TestimonialController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:33:59.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Testimonial\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:34:04.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:13:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:33:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:33:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:33:06.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "HeadPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\AdminLayout\\HeadPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:31:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\ApiConsume\\EntityLayer\\Concrete\\Booking.cs",
               "RelativeDocumentMoniker": "ApiConsume\\EntityLayer\\Concrete\\Booking.cs",
@@ -578,25 +1473,11 @@
               "RelativeToolTip": "ApiConsume\\EntityLayer\\Concrete\\Booking.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:09:42.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T12:09:42.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_BookingCoverPartial.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.Web\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:22:53.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 87,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Project\\Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
@@ -604,8 +1485,7 @@
               "RelativeToolTip": "Frontend\\HotelProject.Web\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T11:25:15.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T11:25:15.996Z"
             }
           ]
         }

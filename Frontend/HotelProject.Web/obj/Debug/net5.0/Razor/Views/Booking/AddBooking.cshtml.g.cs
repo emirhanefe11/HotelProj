@@ -90,10 +90,16 @@ using HotelProject.Web.Dtos.BookingDto
 
 #nullable disable
     ;
+#nullable restore
+#line 14 "C:\Users\HP\source\repos\Project\Frontend\HotelProject.Web\Views\_ViewImports.cshtml"
+using HotelProject.Web.Dtos.ContactDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de", @"/Views/Booking/AddBooking.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ad0b9e915d8d4e36c5f2b1dcdb3fab53b5d98a8a4beed56cdec425018205aa07", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"95f369ee44d9a90281edf6f38a54f41dfcc5d029f0e535b0995fd66c8c9275d2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Booking_AddBooking : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore
@@ -184,9 +190,9 @@ using HotelProject.Web.Dtos.BookingDto
             <div class=""col-lg-6"">
                 <div class=""wow fadeInUp"" data-wow-delay=""0.2s"">
                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de14506", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de14690", async() => {
                 WriteLiteral("\r\n                        <div class=\"row g-3\">\r\n                            <div class=\"col-md-6\">\r\n                                <div class=\"form-floating\">\r\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de14997", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de15181", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -219,7 +225,7 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-md-6"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de17338", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de17522", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -252,7 +258,7 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-md-6"">
                                 <div class=""form-floating date"" id=""date3"" data-target-input=""nearest"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de19717", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de19901", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -287,7 +293,7 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-md-6"">
                                 <div class=""form-floating date"" id=""date4"" data-target-input=""nearest"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de22302", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de22486", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -322,9 +328,9 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-md-6"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de24842", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de25026", async() => {
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de25175", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de25359", async() => {
                         WriteLiteral("Yetişkin 1");
                     }
                     );
@@ -340,7 +346,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de26533", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de26717", async() => {
                         WriteLiteral("Yetişkin 2");
                     }
                     );
@@ -356,7 +362,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de27891", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de28075", async() => {
                         WriteLiteral("Yetişkin 3");
                     }
                     );
@@ -401,9 +407,9 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-md-6"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de31040", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de31224", async() => {
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de31373", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de31557", async() => {
                         WriteLiteral("Çocuk 1");
                     }
                     );
@@ -419,7 +425,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de32728", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de32912", async() => {
                         WriteLiteral("Çocuk 2");
                     }
                     );
@@ -435,7 +441,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de34083", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de34267", async() => {
                         WriteLiteral("Çocuk 3");
                     }
                     );
@@ -480,9 +486,9 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-12"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de37225", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de37409", async() => {
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de37558", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de37742", async() => {
                         WriteLiteral("Oda 1");
                     }
                     );
@@ -498,7 +504,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de38911", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de39095", async() => {
                         WriteLiteral("Oda 2");
                     }
                     );
@@ -514,7 +520,7 @@ using HotelProject.Web.Dtos.BookingDto
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\r\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de40264", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de40448", async() => {
                         WriteLiteral("Oda 3");
                     }
                     );
@@ -559,7 +565,7 @@ using HotelProject.Web.Dtos.BookingDto
                             <div class=""col-12"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de43401", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae22202bef85927d0f61509456ebeb73bfa2ee9bdcff7967242df47d9f05e6de43585", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_TextAreaTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper>();
